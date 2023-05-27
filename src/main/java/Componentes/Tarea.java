@@ -16,7 +16,7 @@ public class Tarea {
     protected String descripcionTarea;
     @NotEmpty
     protected int importanciaTarea;
-    protected Date fechaRealizacionTarea;
+    protected String fechaRealizacionTarea;
     @NotEmpty
     protected int horasDedicadaTarea;
 }
