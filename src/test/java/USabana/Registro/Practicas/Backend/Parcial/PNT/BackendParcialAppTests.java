@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackendParcialPntApplicationTests {
+class BackendParcialAppTests {
 
 	@Test
 	void contextLoads() {
